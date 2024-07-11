@@ -1,6 +1,6 @@
 # Color Detection With Python
 
-In this project, I develop a Color Detection System to detect color green from any object using Open CV.
+In this project, I develop a Color Detection System to detect color 'green' from any object using Open CV.
 
 
 ### Project Steps
